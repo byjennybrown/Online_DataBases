@@ -5,7 +5,10 @@ Databases I find useful.
 https://www.mousephenotype.org - Gene function Database
 
 # Perturbation
-https://perturbatlas.kratoss.site/ - Currated 
+https://perturbatlas.kratoss.site/ - Currated Perturbations good resource to compare gene sets with know
+
+# Human GWAS DATA
+https://atlas.ctglab.nl/ -Database of publicly available GWAS summary statistics.
 
 # Rat GWAS DATA
 https://ratgenes.org/ - Help link rat and human genetic data
